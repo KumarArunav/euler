@@ -1,0 +1,10 @@
+ def func():
+...     sum,s=0,0
+...     for x in range(1,101):
+...             sum=sum+x
+...             s=x*x+s
+...     r=sum*sum-s
+...     print(r)
+...
+>>> func()
+25164150
