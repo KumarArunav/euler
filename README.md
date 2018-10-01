@@ -1,1 +1,4 @@
 # euler
+
+MINOR ASSIGNMENT SUBMISSION FOR CODEX GROUP JOINING.
+EULERS projects question solved
